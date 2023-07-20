@@ -1,4 +1,4 @@
-# Creating and Inserting DOM Nodes Lab
+# Creating and Inserting DOM Nodes Lab 
 
 ## Learning Goals
 
