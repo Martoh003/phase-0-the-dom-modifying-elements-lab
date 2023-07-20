@@ -1,7 +1,7 @@
 // Write your code here!
 
 const mainElement = document.getElementById('main');
-if (mainElement) {
+{
   mainElement.remove();
 }
 
@@ -10,5 +10,3 @@ newHeader.id = 'victory';
 newHeader.innerHTML = 'YOUR-NAME is the champion';
 
 document.body.appendChild(newHeader);
-
-
